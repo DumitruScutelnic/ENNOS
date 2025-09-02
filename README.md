@@ -75,7 +75,7 @@ python -m ENNOS.test
 ```bibtex
 @inproceedings{ennos2025,
   title={ENNOS: Enhanced Neural Network For Organoid Segmentation},
-  author={},
+  author={Dumitru Scutelnic, Bogdan Maris, Daniele Pasotto, Claudia Daffara, Paola Melotti, Chiara Mortali, Roberta Valeria Latorre, Claudio Sorio},
   booktitle = {},
   month = {},
   year = {2025}
